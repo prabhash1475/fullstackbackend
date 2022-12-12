@@ -96,7 +96,6 @@
     "vary": "^1.1.2"
   },
   "scripts": {
-    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
